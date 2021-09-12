@@ -2,8 +2,9 @@
 
 [HOME](.) | [LINKS][LINKS] | [KEY][PUBKEY] | [RANK][RANK] | [LOG][LOG] | [GitHub][GH]
 
-### Hello!
+![alt text][logo]
 
+### Hello!
 This is Operating Systems 2021-2 (OS212) and I am Andhira Henrisen Sikoko.
 
 *Qapla, Jolan Tru!*
@@ -11,7 +12,7 @@ This is Operating Systems 2021-2 (OS212) and I am Andhira Henrisen Sikoko.
 ---
 
 ```
-🍟 © 2021 — Andhira H S — 5 Sep 2021
+🐥 © 2021 — Andhi — 12 Sep 2021
 ```
 
 [LINKS]: <LINKS/>
@@ -19,3 +20,4 @@ This is Operating Systems 2021-2 (OS212) and I am Andhira Henrisen Sikoko.
 [RANK]: <TXT/myrank.txt>
 [LOG]: <TXT/mylog.txt>
 [GH]: <https://github.com/andhi30/os212>
+[logo]: <https://cdn2.scratch.mit.edu/get_image/gallery/28593581_170x100.png>
