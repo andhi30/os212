@@ -1,18 +1,19 @@
-# Operating System 2021-2 (OS212) 
+<h1 style="color:#6E2C00    "> Operating System 2021-2 (OS212) </h1>
 
 [HOME](.) | [LINKS][LINKS] | [KEY][PUBKEY] | [RANK][RANK] | [LOG][LOG] | [GitHub][GH]
 
-![alt text][logo]
+<img style="width: 120px" src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" alt="A cute orange cat lying on its back. ">
 
-### Hello!
-This is Operating Systems 2021-2 (OS212) and I am Andhira Henrisen Sikoko.
+<h3 style="color:#6E2C00">Hello!</h3>
 
-*Qapla, Jolan Tru!*
+<p>This is a repository for <mark style="background-color: #FEE0C2">Operating Systems 2021-2</mark> (OS212) and I am Andhira Henrisen Sikoko.</p>
+
+<i>Qapla, Jolan Tru!</i>
 
 ---
 
 ```
-🐥 © 2021 — Andhi — 12 Sep 2021
+🤖 © 2021 — Andhi — 19 Sep 2021
 ```
 
 [LINKS]: <LINKS/>
@@ -20,4 +21,3 @@ This is Operating Systems 2021-2 (OS212) and I am Andhira Henrisen Sikoko.
 [RANK]: <TXT/myrank.txt>
 [LOG]: <TXT/mylog.txt>
 [GH]: <https://github.com/andhi30/os212>
-[logo]: <https://cdn2.scratch.mit.edu/get_image/gallery/28593581_170x100.png>

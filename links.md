@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# Top Links
+# 🌐 Top Links
 
 ### 1. [Vi vs Vim](https://www.shell-tips.com/linux/vi-vs-vim/)
 > List of most notable differences of Vi and Vim, including multi-level undo, flexible insert mode, horizontal scrolling, and many more. Really helpful if you want to know how they are compared to each other.
@@ -14,4 +14,4 @@ permalink: /LINKS/
 > Basics of Grep Regular Expression, including literal matches, anchoring, matching single character, bracket expressions, quantifiers, alternation, grouping, and special backlash expression. A simple UI with neat explanation makes it very easy to skim through.
 
 ### 4. [IT Games and Tests](http://planeta42.com/it/technology.html)
-> Mini-games about Computer stuff for you to chill. Surely you need a short break after speedrunning the Operating System.
+> Mini-games about Computer stuff for you to chill. Surely you need a short break after speedrunning Operating System course.
