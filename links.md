@@ -15,3 +15,6 @@ permalink: /LINKS/
 
 ### 4. [IT Games and Tests](http://planeta42.com/it/technology.html)
 > Mini-games about Computer stuff for you to chill. Surely you need a short break after speedrunning Operating System course.
+
+### 5. [Learn C - Free Interactive C Tutorial](https://www.learn-c.org/)
+> This website has the best explanation so far and at the very bottom of the page, you will find an exercise with an interactive console. You can run your code directly from the web browser. Awesome!
