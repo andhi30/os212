@@ -2,7 +2,7 @@
 
 [HOME](.) | [LINKS][LINKS] | [KEY][PUBKEY] | [RANK][RANK] | [LOG][LOG] | [GitHub][GH]
 
-<img style="width: 120px" src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" alt="A cute orange cat lying on its back. ">
+<img style="width: 120px" src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif">
 
 <h3 style="color:#6E2C00">Hello!</h3>
 
@@ -13,7 +13,7 @@
 ---
 
 ```
-🤖 © 2021 — Andhi — 19 Sep 2021
+🤖 © 2021 — Andhi
 ```
 
 [LINKS]: <LINKS/>
