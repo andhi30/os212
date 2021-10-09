@@ -18,3 +18,10 @@ permalink: /LINKS/
 
 ### 5. [Learn C - Free Interactive C Tutorial](https://www.learn-c.org/)
 > This website has the best explanation so far and at the very bottom of the page, you will find an exercise with an interactive console. You can run your code directly from the web browser. Awesome!
+
+### 6. [Thrashing in Operating System (OS)](https://www.thecrazyprogrammer.com/2019/02/thrashing-in-operating-system-os.html)
+> Discuss about what is thrashing, effect of thrashing, and techniques to handle thrashing. This article has a brief but very comprehensive explanation, thus very helpful to you if you want to learn about thrashing in a short time.
+
+### 7. [Buddy Methods Visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Buddy.html)
+> All your questions about Buddy Methods will be answered here, including "Buddy" origin. In fact, there is also an interactive simulation to strengthen your understanding.
+
