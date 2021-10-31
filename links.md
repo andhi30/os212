@@ -25,3 +25,11 @@ permalink: /LINKS/
 ### 7. [Buddy Methods Visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Buddy.html)
 > All your questions about Buddy Methods will be answered here, including "Buddy" origin. In fact, there is also an interactive simulation to strengthen your understanding.
 
+### 8. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+> If you confused and want to dig into Fork, this is a good website for you to start digging. It really helps me in understanding Fork concept and its usage.
+
+### 9. [Difference between Process and Thread](https://www.tutorialspoint.com/difference-between-process-and-thread)
+> Process? Thread? Here's a brief explanation about them and a comparison table. Nice!
+
+### 10. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
+> This website covers the basic concept of multithreading, issues involved in multithreading, how to avoid the issues, and many more. Must check!
