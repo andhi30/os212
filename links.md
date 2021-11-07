@@ -33,3 +33,14 @@ permalink: /LINKS/
 
 ### 10. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
 > This website covers the basic concept of multithreading, issues involved in multithreading, how to avoid the issues, and many more. Must check!
+
+---
+
+### 11. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
+> Here, you can learn about synchronization in operating system. This website also includes critical sections and their solution.
+
+### 12. [Introduction to Deadlocks in Operating System](https://www.studytonight.com/operating-system/deadlocks)
+> Although the title is only "Introduction", this website's explanation is very detail. It includes the comparison between starvation and deadlock, conditions that cause deadlock to happen, and methods to handle it.
+
+### 13. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization)
+> You can find the actual code implementation for Peterson's Algorithm here ✌
