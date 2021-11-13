@@ -34,8 +34,6 @@ permalink: /LINKS/
 ### 10. [Multithreading and Concurrency Fundamentals](https://www.educative.io/blog/multithreading-and-concurrency-fundamentals)
 > This website covers the basic concept of multithreading, issues involved in multithreading, how to avoid the issues, and many more. Must check!
 
----
-
 ### 11. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)
 > Here, you can learn about synchronization in operating system. This website also includes critical sections and their solution.
 
@@ -43,4 +41,19 @@ permalink: /LINKS/
 > Although the title is only "Introduction", this website's explanation is very detail. It includes the comparison between starvation and deadlock, conditions that cause deadlock to happen, and methods to handle it.
 
 ### 13. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization)
-> You can find the actual code implementation for Peterson's Algorithm here ✌
+> You can find the actual code implementation for Peterson's Algorithm here
+
+---
+
+### 14. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+> Definition of Process Scheduling, Process Scheduling Queues, Two-State Process Model, and Schedulers are well explained in this website.
+
+### 15. [CPU Scheduling in Operating System (alt.)](https://www.studytonight.com/operating-system/cpu-scheduling)
+> Surprise at the end of the page :')
+
+### 16. [Preemptive vs Non-Preemptive Scheduling: Key Differences](https://www.guru99.com/preemptive-vs-non-preemptive-scheduling.html)
+> You might have found _Preemptive_ term in Slides, and wonder what in the world is Preemptive. SO, this website will tell you everything you need to know about Preemptive Scheduling, plus a comparison with Non-Preemptive Scheduling. All in one!
+
+### 17. [Burst time, Arrival time, Exit time, Response time, Waiting time, Turnaround time, and Throughput](https://afteracademy.com/blog/what-is-burst-arrival-exit-response-waiting-turnaround-time-and-throughput)
+> When learning about CPU Scheduling, we might confused with the term burst time, arrival time, etc. These parameters are used to ... (click the link to find out more)
+
