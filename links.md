@@ -1,3 +1,8 @@
+---
+permalink: /LINKS/
+---
+
+
 # 🌐 Top Links
 
 <br>
