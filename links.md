@@ -1,8 +1,21 @@
----
-permalink: /LINKS/
+# 🌐 Top Links
+
+<br>
+
+<img style="width: 250px" src="https://thumbs.gfycat.com/OptimisticNauticalAnnashummingbird-max-1mb.gif">
+
+### 18. [Difference between Firmware and Operating System](https://www.geeksforgeeks.org/difference-between-firmware-and-operating-system/)
+> Firmware... OS... I thought they were the same! :o
+
+### 19. [What is Swap in Linux and Useful Commands to work with Swap Space in Linux?](https://www.devopsschool.com/blog/what-is-swap-in-linux-and-useful-commands-to-work-with-swap-space-in-linux/)
+> Swap is a space on a disk that is used when the amount of physical RAM memory is full. When a Linux system runs out of R... [(click for more)](https://www.devopsschool.com/blog/what-is-swap-in-linux-and-useful-commands-to-work-with-swap-space-in-linux/)
+
 ---
 
-# 🌐 Top Links
+<br>
+<br>
+
+
 
 ### 1. [Vi vs Vim](https://www.shell-tips.com/linux/vi-vs-vim/)
 > List of most notable differences of Vi and Vim, including multi-level undo, flexible insert mode, horizontal scrolling, and many more. Really helpful if you want to know how they are compared to each other.
@@ -43,8 +56,6 @@ permalink: /LINKS/
 ### 13. [Peterson’s Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization)
 > You can find the actual code implementation for Peterson's Algorithm here
 
----
-
 ### 14. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
 > Definition of Process Scheduling, Process Scheduling Queues, Two-State Process Model, and Schedulers are well explained in this website.
 
@@ -55,5 +66,4 @@ permalink: /LINKS/
 > You might have found _Preemptive_ term in Slides, and wonder what in the world is Preemptive. SO, this website will tell you everything you need to know about Preemptive Scheduling, plus a comparison with Non-Preemptive Scheduling. All in one!
 
 ### 17. [Burst time, Arrival time, Exit time, Response time, Waiting time, Turnaround time, and Throughput](https://afteracademy.com/blog/what-is-burst-arrival-exit-response-waiting-turnaround-time-and-throughput)
-> When learning about CPU Scheduling, we might confused with the term burst time, arrival time, etc. These parameters are used to ... (click the link to find out more)
-
+> When learning about CPU Scheduling, we might confused with the term burst time, arrival time, etc. These parameters are used to ...
